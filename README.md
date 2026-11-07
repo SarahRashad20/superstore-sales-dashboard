@@ -43,7 +43,7 @@ Pivot Tables and PivotCharts for profit and margin by category, sub-category, an
 Excel (Power Query, Pivot Tables, PivotCharts)
 
 ## Files
-- `Superstore_Dashboard.xlsx`: the workbook
-- `dashboard.png`: dashboard screenshot
+- `Sales.xlsx`: the workbook
+- `Dashboard.png`: dashboard screenshot
 
 Built by Sarah Rashad
